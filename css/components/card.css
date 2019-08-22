@@ -1,0 +1,86 @@
+.card {
+  position: relative;
+}
+
+.card .figure,
+.card .figure-img {
+  margin-bottom: 0;
+}
+
+.card-portfolio {
+  margin-bottom: 45px;
+}
+
+.card-portfolio .card-title {
+  margin: 0;
+}
+
+.card-portfolio .card-text {
+  color: #737373;
+  font-size: 14px;
+}
+
+.card-team .card-link {
+  width: 41px;
+  height: 41px;
+  border: 3px solid #222222;
+  background-color: #f9f9f9;
+  border-radius: 50%;
+  color: #222222;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-link + .card-link {
+  margin-left: 9px;
+}
+
+.section-team .section-subtitle {
+  margin-bottom: 83px;
+}
+
+.card-icon {
+  display: flex;
+  border: 3px solid #fed136;
+  border-radius: 50%;
+  background-color: #ffffff;
+  font-size: 40px;
+  width: 68px;
+  height: 68px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 68px;
+}
+
+.card-title {
+  color: #222222;
+  font-family: 'ArialMT';
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.45px;
+}
+
+.card-text {
+  color: #777777;
+  font-family: 'TimesNewRomanPSMT';
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.45px;
+}
+
+.card-image {
+
+}
+
+.card-description {
+
+}
+
+.card-cover {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}

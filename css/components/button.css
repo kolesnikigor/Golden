@@ -1,0 +1,46 @@
+.btn-warning {
+  color: #fff;  
+}
+
+.btn-lg {
+  padding: 15px 39px;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.button:hover {
+  text-decoration: none;
+  color: #333333;  
+}
+
+.button-primary {
+  border-color: #009688;
+  background-color: #ffffff;  
+  color: #009688;
+}
+.button-primary:hover {
+  border-color:  #ffffff;
+  background-color: #009688;
+  color: #ffffff;
+}
+
+.button-secondary {
+  border-color:  #ffffff;
+  background-color: #009688;
+  color: #ffffff;
+}
+.button-secondary:hover {
+  border-color: #009688;
+  background-color: #ffffff;  
+  color: #009688;
+}
+
+.button-large {
+  padding: 16px 32px;
+}
+.button-small {
+  padding: 4px 8px;
+}
+.button-block {
+  width: 100%;
+}

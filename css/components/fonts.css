@@ -1,0 +1,82 @@
+@font-face {
+	font-family: 'fonta27c5975a1a88dcd17c7c606902044d9';
+
+	src:    url('https://nomail.com.ua/files/eot/a27c5975a1a88dcd17c7c606902044d9.eot?#iefix') format('embedded-opentype'),
+					url('https://nomail.com.ua/files/woff/a27c5975a1a88dcd17c7c606902044d9.woff') format('woff'),
+					url('https://nomail.com.ua/files/woff2/a27c5975a1a88dcd17c7c606902044d9.woff2') format('woff2');
+}
+    
+@font-face { font-family: 'ArialMT';  src: local('ArialMT'), url('https://nomail.com.ua/files/woff/a27c5975a1a88dcd17c7c606902044d9.woff') format('woff'); }
+
+@font-face {
+	font-family: 'font61c81a93fc1cbc8a8a687477b78a6795';
+	
+	src:    url('https://nomail.com.ua/files/eot/61c81a93fc1cbc8a8a687477b78a6795.eot?#iefix') format('embedded-opentype'),
+					url('https://nomail.com.ua/files/woff/61c81a93fc1cbc8a8a687477b78a6795.woff') format('woff'),
+					url('https://nomail.com.ua/files/woff2/61c81a93fc1cbc8a8a687477b78a6795.woff2') format('woff2');
+}
+        
+@font-face { font-family: 'TimesNewRomanPSMT';  src: local('TimesNewRomanPSMT'), url('https://nomail.com.ua/files/woff/61c81a93fc1cbc8a8a687477b78a6795.woff') format('woff'); }
+
+@font-face {
+	font-family: 'fontfe0dc36743d17d7a1166c6e21f6536f1';
+			
+	src:    url('https://nomail.com.ua/files/eot/fe0dc36743d17d7a1166c6e21f6536f1.eot?#iefix') format('embedded-opentype'),
+					url('https://nomail.com.ua/files/woff/fe0dc36743d17d7a1166c6e21f6536f1.woff') format('woff'),
+					url('https://nomail.com.ua/files/woff2/fe0dc36743d17d7a1166c6e21f6536f1.woff2') format('woff2');
+}
+
+@font-face { font-family: 'Wisdom-Script';  src: local('Wisdom-Script'), url('https://nomail.com.ua/files/woff/fe0dc36743d17d7a1166c6e21f6536f1.woff') format('woff'); }
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../../fonts/icomoon.eot?lkespu');
+  src:  url('../../fonts/icomoon.eot?lkespu#iefix') format('embedded-opentype'),
+    url('../../fonts/icomoon.ttf?lkespu') format('truetype'),
+    url('../../fonts/icomoon.woff?lkespu') format('woff'),
+    url('../../fonts/icomoon.svg?lkespu#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Icon-Locked:before {
+  content: "\e900";
+  color: #fed136;
+}
+.icon-Icon-Laptop:before {
+  content: "\e901";
+  color: #fed136;
+}
+.icon-Icon-Basket:before {
+  content: "\e902";
+  color: #fed136;
+}
+.icon-google:before {
+  content: "\e903";
+}
+.icon-pinterest-p:before {
+  content: "\e904";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+
+        

@@ -1,0 +1,102 @@
+.section {
+  position: relative;  
+}
+
+.section-gap {
+  padding-top: 119px;
+  padding-bottom: 120px;
+}
+
+.section-title {
+  color: #222222;
+  font-family: 'ArialMT';
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+}
+
+.section-subtitle {
+  color: #777777;
+  font-family: 'TimesNewRomanPSMT';
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.section-description {
+
+}
+
+.section-background {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: -2;
+}
+
+.section-background img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.section-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #000000;
+  opacity: 0.5;  
+  z-index: -1;
+}
+
+.section-foreground {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.section-contact .section-background {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.section-contact .section-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #222222;
+  z-index: -2;
+}
+
+
+.section-services {
+  padding-bottom: 70px;
+}
+
+.section-portfolio {
+  background-color: #f7f7f7;
+}
+
+.section-portfolio .section-subtitle {
+  margin-bottom: 68px;
+  margin-top: 0.67em;
+}
+
+.section-header {
+  padding-top: 25px;
+  padding-bottom: 45px;
+}
+
